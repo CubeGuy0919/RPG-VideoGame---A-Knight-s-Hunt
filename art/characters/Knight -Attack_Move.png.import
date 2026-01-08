@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2uamcmysuuli"
-path="res://.godot/imported/Knight - North - With Sword v2.png-2f6b02fd5548b2b6f701496eb69ec495.ctex"
+uid="uid://b5vj0hgil7m3r"
+path="res://.godot/imported/Knight -Attack_Move.png-caeb9bcac639957ce4057fc33be02f85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/Knight/Knight - North - With Sword v2.png"
-dest_files=["res://.godot/imported/Knight - North - With Sword v2.png-2f6b02fd5548b2b6f701496eb69ec495.ctex"]
+source_file="res://art/characters/Knight/Knight -Attack_Move.png"
+dest_files=["res://.godot/imported/Knight -Attack_Move.png-caeb9bcac639957ce4057fc33be02f85.ctex"]
 
 [params]
 

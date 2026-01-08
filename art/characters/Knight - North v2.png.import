@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pou62evd5tv6"
-path="res://.godot/imported/Knight - North v2.png-4f91af6a99479621036faec36f830bfc.ctex"
+path="res://.godot/imported/Knight - North v2.png-6fd0ac32d8491fd3e3a6e8803a0f69e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/Knight - North v2.png"
-dest_files=["res://.godot/imported/Knight - North v2.png-4f91af6a99479621036faec36f830bfc.ctex"]
+source_file="res://art/characters/Knight/Knight - North v2.png"
+dest_files=["res://.godot/imported/Knight - North v2.png-6fd0ac32d8491fd3e3a6e8803a0f69e9.ctex"]
 
 [params]
 
